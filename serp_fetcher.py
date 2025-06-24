@@ -12,9 +12,8 @@ Documentation references
 
 Environment variables
 ---------------------
-DFS_LOGIN     – DataforSEO API login  
-DFS_PASSWORD  – DataforSEO API password
-
+DFS_LOGIN     – lukasz.piotrowski@autodna.com  
+DFS_PASSWORD  – f8c057d240fb38c6
 Usage
 -----
 ```bash
